@@ -1,0 +1,13 @@
+{
+  "name": "fcc-express-server",
+  "version": "1.0.0",
+  "description": "A simple Node.js server using Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Franco Coria",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
